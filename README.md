@@ -38,27 +38,27 @@ python main.py
 
 ## 文件说明
 
-· accounts.txt - 已绑定邮箱的账号，格式：邮箱|邮箱密码|设备用户名|设备密码|显示名称
-· device_accounts.txt - 绑定失败的设备账号（可选保存）
+- accounts.txt - 已绑定邮箱的账号，格式：邮箱|邮箱密码|设备用户名|设备密码|显示名称
+- device_accounts.txt - 绑定失败的设备账号（可选保存）
 
 ## 兑换码列表
 
 脚本自动领取以下兑换码：
 
-· DOUYIN-9C2E-4E6A-SSR
-· KARDS-203C-40D9-SSR
-· KARDS-665A-444D-SSR
-· KARDSMADAOCHENGGONG
-· KARDSRENXINBUZU
-· KARDSQIBAOMA
-· THREADS-EE3D-4B63-SSR
+- DOUYIN-9C2E-4E6A-SSR
+- KARDS-203C-40D9-SSR
+- KARDS-665A-444D-SSR
+- KARDSMADAOCHENGGONG
+- KARDSRENXINBUZU
+- KARDSQIBAOMA
+- THREADS-EE3D-4B63-SSR
 
 ## 注意事项
 
-· 本工具仅用于学习和研究目的
-· 使用本工具可能违反游戏服务条款，存在账号被封禁的风险
-· 请自行承担使用后果，开发者不承担任何责任
-· 建议了解游戏规则后谨慎使用
+- 本工具仅用于学习和研究目的
+- 使用本工具可能违反游戏服务条款，存在账号被封禁的风险
+- 请自行承担使用后果，开发者不承担任何责任
+- 建议了解游戏规则后谨慎使用
 
 ## 开源协议
 
